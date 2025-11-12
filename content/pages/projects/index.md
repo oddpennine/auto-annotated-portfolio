@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: Hallow Melody
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
